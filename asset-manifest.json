@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-site/static/css/main.5729120b.css",
+    "main.js": "/portfolio-site/static/js/main.96a90781.js",
+    "static/media/rock.png": "/portfolio-site/static/media/rock.96ef84576dc28687afd5.png",
+    "static/media/limbus.jpg": "/portfolio-site/static/media/limbus.fc9860c379120dc89f9d.jpg",
+    "static/media/website.png": "/portfolio-site/static/media/website.5090f0fb1c18ee03d63f.png",
+    "index.html": "/portfolio-site/index.html",
+    "main.5729120b.css.map": "/portfolio-site/static/css/main.5729120b.css.map",
+    "main.96a90781.js.map": "/portfolio-site/static/js/main.96a90781.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5729120b.css",
+    "static/js/main.96a90781.js"
+  ]
+}
