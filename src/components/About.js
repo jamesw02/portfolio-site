@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
-import photo from '../assets/hongrock.jpg';
+import photo from '../assets/rock.png';
 
 const About = () => {
   return (
@@ -13,7 +13,7 @@ const About = () => {
       <p className="mb-2 text-xl text-gray-400">Welcome to my personal website!</p>
       <div className="flex">
         <a
-          href="path/to/your/resume.pdf"
+          href="../assets/James_Wang_Resume_Aug11.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-2 flex items-center h-12 bg-white border-white bg-opacity-15 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded"
@@ -21,7 +21,7 @@ const About = () => {
           Resume / CV
         </a>
         <a
-          href="https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/james-wang-14964b319/"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-2 flex items-center h-12 bg-white border-white bg-opacity-15 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded"
@@ -29,7 +29,7 @@ const About = () => {
           <FaLinkedin size={24} />
         </a>
         <a
-          href="https://github.com/nankasugoibeam"
+          href="https://github.com/jamesw02"
           target="_blank"
           rel="noopener noreferrer"
           className="mx-2 flex items-center h-12 bg-white border-white bg-opacity-15 hover:bg-gray-500 text-white font-bold py-2 px-4 rounded"
@@ -45,12 +45,12 @@ const About = () => {
         <div className="relative flex flex-col md:flex-row mt-4">
           <div className="flex-1">
             <p className="text-gray-300">
-              Hi there. My name is James and I'm a student at Queen's University. I decided to study Computer Science because I found the idea of being able to make anything I desire digitally to be very appealing..
+              Hi there. My name is James and I'm a student at Queen's University. I decided to study Computer Science because I found the idea of being able to make anything I desire digitally to be very appealing.
               <br /> <br />
-              I admittedly don't have a lot of practical experience and my general knowledge of the field still has ways to go, but I'm always eager to learn and pick up new technologies and skills if it means getting the job done. 
+              My strong points are effective communication and collaboration in a team, I will not hesitate to ask for clarifications and to follow instructions to a tee. I admittedly don't have a lot of practical experience, but I'm always eager to learn and pick up new technologies and skills if it means getting the job done.
               
               <br /> <br />
-              Here is a photo of me, you can scroll down to learn about my skills and work experiences. In my free time, I like to chase frogs at night.
+              Here is a photo of me making a wooden box, you can scroll down to learn about my skills and work experiences. In my free time, I like to chase frogs at night.
             </p>
           </div>
           <div className="relative flex-shrink-0 mt-4 md:mt-0 md:ml-4">
